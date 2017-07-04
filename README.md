@@ -1,7 +1,7 @@
 # GeoQuiz
-Asks a True/False question for user to answer.
+Asks a series of True/False questions for the user to answer.
 
-Simple app that displays a True/False question and allows the user to answer either true or false using buttons.
+Simple app that displays True/False questions and allows the user to answer either true or false using buttons.
 A toast will pop up to indicate whether or not the user answered correctly.
 
 Project is taken from "Android Programming: The Big Nerd Ranch Guide" 2nd edition by Bill Phillips, Chris Stewart, 
