@@ -14,6 +14,9 @@ public class Question
      * Resource ID of string resource for the question.
      */
     private int mTextResId;
+    /**
+     * Answer to the question (either True or False)
+     */
     private boolean mAnswerTrue;
 
     public int getTextResId()
